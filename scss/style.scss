@@ -58,7 +58,7 @@ $layout-margin-size: 10px;
     font-size: calcRem($size);
 }
 
-@import 'header', 'footer', 'about', 'article';
+@import 'header', 'footer', 'about', 'article', 'collection';
 
 .main {
     display: flex;
